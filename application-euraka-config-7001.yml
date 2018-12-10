@@ -1,7 +1,7 @@
 spring:
   application:
     active: dev
----	
+---
 server:
   port: 7001
   
